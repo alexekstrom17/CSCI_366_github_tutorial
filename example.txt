@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 First line
 
+||||||| merged common ancestors
+=======
+First line
+Second line
+my line
+>>>>>>> fc6bb24914e2e662a3b51ac390c054fc46862ae6
